@@ -1,16 +1,8 @@
-# flutter_bloc_made_simple
 
-A new Flutter project.
+Learning BLOC state management with Flutter.
 
-## Getting Started
+## Getting Started with BLOC
 
-This project is a starting point for a Flutter application.
+<br>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/beatriz-dadalto/flutter_bloc_batman_counter/blob/main/demo-video.gif" width="350px" alt="demo-image"/>
